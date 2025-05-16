@@ -1,0 +1,32 @@
+# 🩺 Reto 1 – Registro de Paciente
+
+## 🎯 Objetivo
+
+Desarrollar una aplicación en Java que permita registrar los datos de un paciente utilizando conceptos básicos de programación orientada a objetos (POO), como clases, atributos, métodos y entrada de datos desde consola.
+
+---
+
+## 🧱 Estructura del proyecto
+
+Este reto consta de dos clases:
+
+- `Paciente.java`  
+  Define la clase `Paciente` con sus atributos y un método para mostrar la información del paciente.
+
+- `Principal.java`  
+  Contiene el método `main`, donde se crea una instancia de `Paciente` y se capturan los datos desde consola usando la clase `Scanner`.
+
+---
+
+## 📥 Atributos del paciente
+
+- `String nombre`
+- `int edad`
+- `String expediente`
+
+---
+
+## ⚙️ Método implementado
+
+```java
+public void mostrarInformacion()
