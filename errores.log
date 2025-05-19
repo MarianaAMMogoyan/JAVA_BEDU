@@ -1,0 +1,6 @@
+INFO - Todo está bien.
+WARNING - Posible falla detectada.
+ERROR - No se pudo conectar a la base de datos.
+INFO - Prueba exitosa.
+WARNING - Memoria baja.
+ERROR - Timeout en la operación.
